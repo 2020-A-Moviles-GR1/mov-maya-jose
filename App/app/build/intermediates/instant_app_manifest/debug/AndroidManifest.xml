@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.app"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="29" />
+
+    <!-- Include required permissions for Google Maps API to run. -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:extractNativeLibs="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="com.example.app.registrar_negocio" />
+        <activity android:name="com.example.app.Opciones2" />
+        <activity android:name="com.example.app.Productos" />
+        <activity android:name="com.example.app.Historial_Pedidos" />
+        <activity android:name="com.example.app.Asistente" />
+        <activity android:name="com.example.app.Compra_Finalizada" />
+        <activity android:name="com.example.app.Deposito" />
+        <activity android:name="com.example.app.Transferencia" />
+        <activity android:name="com.example.app.Tarjetas" />
+        <activity android:name="com.example.app.Formas_Pago" />
+        <activity android:name="com.example.app.Confimar_Ubicacion" />
+        <activity android:name="com.example.app.Pedidos" />
+        <activity android:name="com.example.app.Compras" />
+        <activity android:name="com.example.app.Agendar" />
+        <activity android:name="com.example.app.Agendar_Comprar" />
+        <activity android:name="com.example.app.Regalos" />
+        <activity android:name="com.example.app.ui.login.Angendar_o_Comprar" />
+        <activity android:name="com.example.app.Tienda" />
+        <activity android:name="com.example.app.Tecnologia" />
+        <activity
+            android:name="com.example.app.ui.login.Regalos"
+            android:label="@string/title_activity_regalos" />
+        <activity android:name="com.example.app.Tecnicos" />
+        <activity android:name="com.example.app.Farmacias" />
+        <activity android:name="com.example.app.Restaurantes" />
+        <activity android:name="com.example.app.Opciones" />
+        <activity
+            android:name="com.example.app.ui.login.LoginActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- Needs to be explicitly declared on P+ -->
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false" />
+
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <provider
+            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+            android:authorities="com.example.app.lifecycle-process"
+            android:exported="false"
+            android:multiprocess="true" />
+    </application>
+
+</manifest>

@@ -1,0 +1,175 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+8-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml
+10
+11    <!-- Include required permissions for Google Maps API to run. -->
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\ef99e0bc9c7cc9f21fcbc3adcb64988d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+12-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\ef99e0bc9c7cc9f21fcbc3adcb64988d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\ef99e0bc9c7cc9f21fcbc3adcb64988d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+13-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\ef99e0bc9c7cc9f21fcbc3adcb64988d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:22-64
+14
+15    <uses-feature
+15-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\ef99e0bc9c7cc9f21fcbc3adcb64988d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+16        android:glEsVersion="0x00020000"
+16-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\ef99e0bc9c7cc9f21fcbc3adcb64988d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+17        android:required="true" />
+17-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\ef99e0bc9c7cc9f21fcbc3adcb64988d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+18
+19    <application
+19-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:5:5-47:19
+20        android:allowBackup="true"
+20-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:6:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.3.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\dbdf15eb260cac27d458e15a5ea88215\core-1.3.0\AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="false"
+24        android:icon="@mipmap/ic_launcher"
+24-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:7:9-43
+25        android:label="@string/app_name"
+25-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:8:9-41
+26        android:roundIcon="@mipmap/ic_launcher_round"
+26-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:9:9-54
+27        android:supportsRtl="true"
+27-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:10:9-35
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme" >
+29-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:11:9-40
+30        <activity android:name="com.example.app.registrar_negocio" />
+30-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:12:9-64
+30-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:12:19-52
+31        <activity android:name="com.example.app.Opciones2" />
+31-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:13:9-47
+31-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:13:19-44
+32        <activity android:name="com.example.app.Productos" />
+32-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:14:9-47
+32-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:14:19-44
+33        <activity android:name="com.example.app.Historial_Pedidos" />
+33-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:15:9-55
+33-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:15:19-52
+34        <activity android:name="com.example.app.Asistente" />
+34-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:16:9-47
+34-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:16:19-44
+35        <activity android:name="com.example.app.Compra_Finalizada" />
+35-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:17:9-55
+35-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:17:19-52
+36        <activity android:name="com.example.app.Deposito" />
+36-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:18:9-46
+36-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:18:19-43
+37        <activity android:name="com.example.app.Transferencia" />
+37-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:19:9-51
+37-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:19:19-48
+38        <activity android:name="com.example.app.Tarjetas" />
+38-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:20:9-46
+38-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:20:19-43
+39        <activity android:name="com.example.app.Formas_Pago" />
+39-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:21:9-49
+39-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:21:19-46
+40        <activity android:name="com.example.app.Confimar_Ubicacion" />
+40-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:22:9-56
+40-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:22:19-53
+41        <activity android:name="com.example.app.Pedidos" />
+41-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:23:9-45
+41-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:23:19-42
+42        <activity android:name="com.example.app.Compras" />
+42-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:24:9-45
+42-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:24:19-42
+43        <activity android:name="com.example.app.Agendar" />
+43-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:25:9-45
+43-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:25:19-42
+44        <activity android:name="com.example.app.Agendar_Comprar" />
+44-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:26:9-53
+44-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:26:19-50
+45        <activity android:name="com.example.app.Regalos" />
+45-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:27:9-45
+45-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:27:19-42
+46        <activity android:name="com.example.app.ui.login.Angendar_o_Comprar" />
+46-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:28:9-65
+46-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:28:19-62
+47        <activity android:name="com.example.app.Tienda" />
+47-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:29:9-44
+47-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:29:19-41
+48        <activity android:name="com.example.app.Tecnologia" />
+48-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:30:9-48
+48-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:30:19-45
+49        <activity
+49-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:31:9-33:62
+50            android:name="com.example.app.ui.login.Regalos"
+50-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:32:13-45
+51            android:label="@string/title_activity_regalos" />
+51-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:33:13-59
+52        <activity android:name="com.example.app.Tecnicos" />
+52-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:34:9-46
+52-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:34:19-43
+53        <activity android:name="com.example.app.Farmacias" />
+53-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:35:9-47
+53-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:35:19-44
+54        <activity android:name="com.example.app.Restaurantes" />
+54-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:36:9-50
+54-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:36:19-47
+55        <activity android:name="com.example.app.Opciones" />
+55-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:37:9-46
+55-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:37:19-43
+56        <activity
+56-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:38:9-46:20
+57            android:name="com.example.app.ui.login.LoginActivity"
+57-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:39:13-51
+58            android:label="@string/app_name" >
+58-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:40:13-45
+59            <intent-filter>
+59-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:41:13-45:29
+60                <action android:name="android.intent.action.MAIN" />
+60-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:42:17-69
+60-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:42:25-66
+61
+62                <category android:name="android.intent.category.LAUNCHER" />
+62-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:44:17-77
+62-->C:\Users\Richa\OneDrive\Documentos\github\mov-maya-jose\App\app\src\main\AndroidManifest.xml:44:27-74
+63            </intent-filter>
+64        </activity>
+65        <!-- Needs to be explicitly declared on P+ -->
+66        <uses-library
+66-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\ef99e0bc9c7cc9f21fcbc3adcb64988d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+67            android:name="org.apache.http.legacy"
+67-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\ef99e0bc9c7cc9f21fcbc3adcb64988d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+68            android:required="false" />
+68-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\ef99e0bc9c7cc9f21fcbc3adcb64988d\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+69
+70        <activity
+70-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\fcca5c14c9c2f2028bda975395cf0a43\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+71            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+71-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\fcca5c14c9c2f2028bda975395cf0a43\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+72            android:exported="false"
+72-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\fcca5c14c9c2f2028bda975395cf0a43\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+73            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+73-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\fcca5c14c9c2f2028bda975395cf0a43\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+74
+75        <meta-data
+75-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\38dcb183fb697f43aab8d8e1d7cff09f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+76            android:name="com.google.android.gms.version"
+76-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\38dcb183fb697f43aab8d8e1d7cff09f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+77            android:value="@integer/google_play_services_version" />
+77-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\38dcb183fb697f43aab8d8e1d7cff09f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+78
+79        <provider
+79-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\6691aba6a07a208173ad67bb9ac35036\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:25:9-29:43
+80            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+80-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\6691aba6a07a208173ad67bb9ac35036\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:26:13-79
+81            android:authorities="com.example.app.lifecycle-process"
+81-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\6691aba6a07a208173ad67bb9ac35036\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:27:13-69
+82            android:exported="false"
+82-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\6691aba6a07a208173ad67bb9ac35036\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:28:13-37
+83            android:multiprocess="true" />
+83-->[androidx.lifecycle:lifecycle-process:2.2.0] C:\Users\Richa\.gradle\caches\transforms-2\files-2.1\6691aba6a07a208173ad67bb9ac35036\jetified-lifecycle-process-2.2.0\AndroidManifest.xml:29:13-40
+84    </application>
+85
+86</manifest>

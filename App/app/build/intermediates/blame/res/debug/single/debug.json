@@ -1,0 +1,194 @@
+[
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_devices_black_24dp.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\drawable\\ic_devices_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_compras.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_compras.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_agendar__comprar.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_agendar__comprar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tarjetas.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_tarjetas.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_regalos2.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_regalos2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_boton_circulo.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\drawable\\boton_circulo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_historial__pedidos.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_historial__pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_productos.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_productos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tienda.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_tienda.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tecnicos.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_tecnicos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_deposito.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_deposito.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_agendar.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_agendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pedidos.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_pedidos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_regalos.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_regalos.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_build_black_24dp.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\drawable\\ic_build_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tecnologia.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_tecnologia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_local_pharmacy_black_24dp.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\drawable\\ic_local_pharmacy_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_confimar__ubicacion.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_confimar__ubicacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_formas__pago.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_formas__pago.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_restaurantes.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_restaurantes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_restaurant_black_24dp.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\drawable\\ic_restaurant_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_opciones.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_opciones.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_farmacias.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_farmacias.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_date_range_black_24dp.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\drawable\\ic_date_range_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_compra__finalizada.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_compra__finalizada.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_asistente.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_asistente.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_opciones2.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_opciones2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_local_mall_black_24dp.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\drawable\\ic_local_mall_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sentiment_very_satisfied_black_24dp.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\drawable\\ic_sentiment_very_satisfied_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_store_black_24dp.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\drawable\\ic_store_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_transferencia.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_transferencia.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_access_time_black_24dp.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\drawable\\ic_access_time_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_registrar_negocio.xml.flat",
+        "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\App\\app\\src\\main\\res\\layout\\activity_registrar_negocio.xml"
+    }
+]
