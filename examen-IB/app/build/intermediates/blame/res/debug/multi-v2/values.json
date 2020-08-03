@@ -1,8 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Richa\\OneDrive\\Documentos\\Tarea\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\examen-IB\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
+                {
+                    "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\examen-IB\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "376"
+                    },
+                    "to": {
+                        "startLines": "415",
+                        "startColumns": "4",
+                        "startOffsets": "24807",
+                        "endLines": "420",
+                        "endColumns": "12",
+                        "endOffsets": "25121"
+                    }
+                },
                 {
                     "source": "C:\\Users\\Richa\\.gradle\\caches\\transforms-2\\files-2.1\\bc4508feab822616f230daadd2b0b895\\jetified-appcompat-resources-1.1.0\\res\\values\\values.xml",
                     "from": {
@@ -23,22 +42,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\Tarea\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\examen-IB\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "376"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
                     },
                     "to": {
-                        "startLines": "415",
-                        "startColumns": "4",
-                        "startOffsets": "24807",
-                        "endLines": "420",
-                        "endColumns": "12",
-                        "endOffsets": "25121"
+                        "startLines": "154,155,156",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7803,7849,7896",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "7844,7891,7942"
                     }
                 },
                 {
@@ -61,7 +78,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\Tarea\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\github\\mov-maya-jose\\examen-IB\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -75,23 +92,6 @@
                         "startOffsets": "24198",
                         "endColumns": "42",
                         "endOffsets": "24236"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Richa\\OneDrive\\Documentos\\Tarea\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "157,57,105",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "198,99,151"
-                    },
-                    "to": {
-                        "startLines": "154,155,156",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "7803,7849,7896",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "7844,7891,7942"
                     }
                 },
                 {
