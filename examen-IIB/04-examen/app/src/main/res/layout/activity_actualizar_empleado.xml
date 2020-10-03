@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/txt_id"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActualizarCliente">
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fecha Nacimiento"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_act_fecha_emp"
+        app:layout_constraintEnd_toEndOf="@+id/textView5"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView5"
+        app:layout_constraintTop_toBottomOf="@+id/textView5"
+        app:layout_constraintVertical_bias="0.422" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_act_nom_emp"
+        app:layout_constraintEnd_toEndOf="@+id/textView3"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView3"
+        app:layout_constraintTop_toBottomOf="@+id/textView3"
+        app:layout_constraintVertical_bias="0.589" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Estado"
+        app:layout_constraintBottom_toBottomOf="@+id/estado_act_emp"
+        app:layout_constraintEnd_toEndOf="@+id/textView6"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView6"
+        app:layout_constraintTop_toBottomOf="@+id/textView6"
+        app:layout_constraintVertical_bias="0.702" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cod. Cliente"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_act_cod_emp"
+        app:layout_constraintEnd_toEndOf="@+id/textView11"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView11"
+        app:layout_constraintTop_toBottomOf="@+id/textView11" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="wrap_content"
+        android:layout_height="19dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="88dp"
+        android:text="Indice:"
+        app:layout_constraintBottom_toTopOf="@+id/txt_act_cod_emp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="57dp"
+        android:layout_height="22dp"
+        android:text="Cedula:"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_act_sueldo_emp"
+        app:layout_constraintEnd_toEndOf="@+id/textView4"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView4"
+        app:layout_constraintTop_toBottomOf="@+id/textView4"
+        app:layout_constraintVertical_bias="0.65" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cod. Tienda"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_act_cod_dep_emp"
+        app:layout_constraintEnd_toEndOf="@+id/textView7"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView7"
+        app:layout_constraintTop_toBottomOf="@+id/textView7"
+        app:layout_constraintVertical_bias="0.729" />
+
+    <EditText
+
+        android:id="@+id/txt_act_cod_emp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Cod.Cliente"
+        android:inputType="number"
+        app:layout_constraintStart_toStartOf="@+id/id"
+        app:layout_constraintTop_toBottomOf="@+id/id" />
+
+    <EditText
+
+        android:id="@+id/txt_act_nom_emp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Nombre"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/txt_act_cod_emp"
+        app:layout_constraintStart_toStartOf="@+id/txt_act_cod_emp"
+        app:layout_constraintTop_toBottomOf="@+id/txt_act_cod_emp" />
+
+    <Switch
+
+        android:id="@+id/estado_act_emp"
+        android:layout_width="122dp"
+        android:layout_height="30dp"
+        android:textOff="INACTIVO"
+        android:textOn="ACTIVO"
+        app:layout_constraintEnd_toEndOf="@+id/txt_act_fecha_emp"
+        app:layout_constraintStart_toStartOf="@+id/txt_act_fecha_emp"
+        app:layout_constraintTop_toBottomOf="@+id/txt_act_fecha_emp" />
+
+    <EditText
+
+        android:id="@+id/txt_act_fecha_emp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="DD/MM/YYYY"
+        android:inputType="date"
+        app:layout_constraintEnd_toEndOf="@+id/txt_act_sueldo_emp"
+        app:layout_constraintStart_toStartOf="@+id/txt_act_sueldo_emp"
+        app:layout_constraintTop_toBottomOf="@+id/txt_act_sueldo_emp" />
+
+    <EditText
+
+        android:id="@+id/txt_act_sueldo_emp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Cedula"
+        android:inputType="numberDecimal"
+        app:layout_constraintEnd_toEndOf="@+id/txt_act_nom_emp"
+        app:layout_constraintStart_toStartOf="@+id/txt_act_nom_emp"
+        app:layout_constraintTop_toBottomOf="@+id/txt_act_nom_emp" />
+
+    <EditText
+
+        android:id="@+id/txt_act_cod_dep_emp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Cod. Tienda"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="@+id/estado_act_emp"
+        app:layout_constraintStart_toStartOf="@+id/estado_act_emp"
+        app:layout_constraintTop_toBottomOf="@+id/estado_act_emp" />
+
+    <Button
+
+        android:id="@+id/btn_actualizar_empleado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="74dp"
+        android:text="ACTUALIZAR"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lv_datos_actualizar" />
+
+    <Button
+
+        android:id="@+id/btn_cancelar_actualizar_empleado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="72dp"
+        android:text="CANCELAR"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_actualizar_empleado"
+        app:layout_constraintEnd_toStartOf="@+id/btn_actualizar_empleado"
+        app:layout_constraintTop_toTopOf="@+id/btn_actualizar_empleado"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="131dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="131dp"
+        android:text="ACTUALIZAR CLIENTE"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ListView
+        android:id="@+id/lv_datos_actualizar"
+        android:layout_width="431dp"
+        android:layout_height="120dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_act_cod_dep_emp" />
+
+    <EditText
+        android:id="@+id/id"
+        android:layout_width="120dp"
+        android:layout_height="44dp"
+        android:layout_marginStart="135dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="95dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView11"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

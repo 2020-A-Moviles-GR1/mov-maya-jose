@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79" height="76" viewBox="0 0 79 76">
+  <g id="Grupo_1099" data-name="Grupo 1099" transform="translate(-138 -342)">
+    <g id="Grupo_1032" data-name="Grupo 1032">
+      <g id="Elipse_6" data-name="Elipse 6" transform="translate(138 342)" fill="#fff" stroke="#707070" stroke-width="3">
+        <ellipse cx="39.5" cy="38" rx="39.5" ry="38" stroke="none"/>
+        <ellipse cx="39.5" cy="38" rx="38" ry="36.5" fill="none"/>
+      </g>
+      <text id="BUY" transform="translate(149 392)" fill="#5c9dd6" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">BUY</tspan></text>
+    </g>
+  </g>
+</svg>

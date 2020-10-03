@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125.96" height="114.503" viewBox="0 0 125.96 114.503">
+  <g id="Grupo_1028" data-name="Grupo 1028" transform="translate(-340.67 -114.824)">
+    <g id="Grupo_1022" data-name="Grupo 1022" transform="translate(380.388 121.148)">
+      <path id="Trazado_2610" data-name="Trazado 2610" d="M388.053,164.184v-24.07a12.349,12.349,0,0,1,6.89,11.069,5.457,5.457,0,0,0,10.914,0,23.3,23.3,0,0,0-17.8-22.608v-5.054a5.457,5.457,0,1,0-10.914,0v5.054a23.258,23.258,0,0,0,0,45.219v24.07a12.358,12.358,0,0,1-6.89-11.071,5.457,5.457,0,1,0-10.914,0,23.3,23.3,0,0,0,17.8,22.608v5.054a5.457,5.457,0,1,0,10.914,0V209.4a23.257,23.257,0,0,0,0-45.217Zm-17.8-13a12.357,12.357,0,0,1,6.89-11.069v22.144A12.369,12.369,0,0,1,370.25,151.183Zm17.8,46.68V175.719a12.342,12.342,0,0,1,0,22.144Z" transform="translate(-359.336 -118.061)" fill="#fe9431" stroke="#3a3d83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="Grupo_1027" data-name="Grupo 1027" transform="translate(340.67 115.324)">
+      <g id="Grupo_1024" data-name="Grupo 1024">
+        <path id="Trazado_2611" data-name="Trazado 2611" d="M448.494,142.028a56.751,56.751,0,0,0-104.9,30.045c0,1.121.03,2.238.094,3.343" transform="translate(-337.368 -115.324)" fill="none" stroke="#3a3d83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <g id="Grupo_1023" data-name="Grupo 1023" transform="translate(0 57.253)">
+          <path id="Trazado_2612" data-name="Trazado 2612" d="M342.017,143.578c-1.33.181-1.747,1.2-.924,2.258l6,7.756a1.293,1.293,0,0,0,2.422-.332l3.713-9.075c.506-1.243-.162-2.111-1.492-1.93Z" transform="translate(-340.67 -142.231)" fill="#3a3d83"/>
+        </g>
+      </g>
+      <g id="Grupo_1026" data-name="Grupo 1026" transform="translate(14.833 44.18)">
+        <path id="Trazado_2613" data-name="Trazado 2613" d="M347.641,173.811a56.752,56.752,0,0,0,104.9-30.047q0-1.682-.1-3.339" transform="translate(-347.641 -131.194)" fill="none" stroke="#3a3d83" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <g id="Grupo_1025" data-name="Grupo 1025" transform="translate(98.396)">
+          <path id="Trazado_2614" data-name="Trazado 2614" d="M405.264,146.809c1.332-.181,1.751-1.2.928-2.26l-6-7.754a1.294,1.294,0,0,0-2.424.328l-3.715,9.075c-.506,1.243.162,2.111,1.5,1.93Z" transform="translate(-393.883 -136.087)" fill="#3a3d83"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

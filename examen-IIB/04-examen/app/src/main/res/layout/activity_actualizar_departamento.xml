@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ActualizarTienda">
+
+    <Button
+
+
+        android:id="@+id/btn_cancelar_actualizar_departamento"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="120dp"
+        android:text="CANCELAR"
+        app:layout_constraintBottom_toBottomOf="@+id/btn_actualizar_departamento"
+        app:layout_constraintEnd_toStartOf="@+id/btn_actualizar_departamento"
+        app:layout_constraintTop_toTopOf="@+id/btn_actualizar_departamento"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+
+        android:id="@+id/textView29"
+        android:layout_width="231dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="67dp"
+        android:text="ACTUALIZAR TIENDA"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+
+        android:id="@+id/textView19"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cod. Tienda:"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_cod_dep"
+        app:layout_constraintEnd_toEndOf="@+id/textView22"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView22"
+        app:layout_constraintTop_toBottomOf="@+id/textView22"
+        app:layout_constraintVertical_bias="0.461" />
+
+    <EditText
+
+        android:id="@+id/txt_cui_dep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Ciudad"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/estado_depa"
+        app:layout_constraintStart_toStartOf="@+id/estado_depa"
+        app:layout_constraintTop_toBottomOf="@+id/estado_depa" />
+
+    <TextView
+
+        android:id="@+id/textView26"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Nombre Tienda:"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_nom_dep"
+        app:layout_constraintEnd_toEndOf="@+id/textView25"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView25"
+        app:layout_constraintTop_toBottomOf="@+id/textView25"
+        app:layout_constraintVertical_bias="0.652" />
+
+    <TextView
+
+        android:id="@+id/textView25"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Num. Tienda"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_nun_dep"
+        app:layout_constraintEnd_toEndOf="@+id/textView19"
+        app:layout_constraintStart_toStartOf="@+id/textView19"
+        app:layout_constraintTop_toBottomOf="@+id/textView19" />
+
+    <TextView
+
+        android:layout_width="68dp"
+        android:layout_height="19dp"
+        android:text="Ciudad:"
+        app:layout_constraintBottom_toBottomOf="@+id/txt_cui_dep"
+        app:layout_constraintEnd_toEndOf="@+id/textView28"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView28"
+        app:layout_constraintTop_toBottomOf="@+id/textView28" />
+
+    <EditText
+
+        android:id="@+id/txt_nom_dep"
+        android:layout_width="wrap_content"
+        android:layout_height="45dp"
+        android:ems="10"
+        android:hint="Nombre Tienda"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="@+id/txt_nun_dep"
+        app:layout_constraintStart_toStartOf="@+id/txt_nun_dep"
+        app:layout_constraintTop_toBottomOf="@+id/txt_nun_dep" />
+
+    <TextView
+
+        android:id="@+id/textView28"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Estado:"
+        app:layout_constraintBottom_toBottomOf="@+id/estado_depa"
+        app:layout_constraintEnd_toEndOf="@+id/textView26"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/textView26"
+        app:layout_constraintTop_toBottomOf="@+id/textView26"
+        app:layout_constraintVertical_bias="0.666" />
+
+    <EditText
+
+        android:id="@+id/txt_nun_dep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Num. Tienda"
+        android:inputType="numberDecimal"
+        app:layout_constraintEnd_toEndOf="@+id/txt_cod_dep"
+        app:layout_constraintStart_toStartOf="@+id/txt_cod_dep"
+        app:layout_constraintTop_toBottomOf="@+id/txt_cod_dep" />
+
+    <Switch
+
+        android:id="@+id/estado_depa"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="@+id/txt_nom_dep"
+        app:layout_constraintStart_toStartOf="@+id/txt_nom_dep"
+        app:layout_constraintTop_toBottomOf="@+id/txt_nom_dep" />
+
+    <EditText
+
+        android:id="@+id/txt_cod_dep"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Codigo Tienda"
+        android:inputType="number"
+        app:layout_constraintEnd_toEndOf="@+id/txt_id"
+        app:layout_constraintStart_toStartOf="@+id/txt_id"
+        app:layout_constraintTop_toBottomOf="@+id/txt_id" />
+
+    <Button
+
+        android:id="@+id/btn_actualizar_departamento"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="56dp"
+        android:text="ACTUALIZAR"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/lv_datos_actualizados"
+        tools:ignore="UnknownId" />
+
+    <ListView
+        android:id="@+id/lv_datos_actualizados"
+        android:layout_width="411dp"
+        android:layout_height="160dp"
+        android:layout_marginStart="1dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="1dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txt_cui_dep" />
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="88dp"
+        android:text="Indice"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/txt_id"
+        android:layout_width="95dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="134dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="12dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.431"
+        app:layout_constraintStart_toEndOf="@+id/textView22"
+        app:layout_constraintTop_toBottomOf="@+id/textView29" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
